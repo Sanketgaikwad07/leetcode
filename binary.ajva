@@ -1,0 +1,3 @@
+String binary = "11001";
+int number = Integer.parseInt(binary, 2);
+System.out.println("Decimal of " + binary + " is: " + number);
