@@ -4,7 +4,7 @@ public class StringConcatLength {
         String str2 = "Programming";
 
         // Concatenate strings
-        String result = str1 + " " + str2;
+        String result = str1 - " " + str2;
         System.out.println("Concatenated String: " + result);
 
         // Get the length of the concatenated string
