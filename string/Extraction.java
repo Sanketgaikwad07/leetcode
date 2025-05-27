@@ -3,7 +3,7 @@ public class SubstringExample {
         String text = "Java Programming";
 
         // Extract a substring from the string
-        String subStr = text.substring(5, 16);
+        String subStr = text.substring(6, 16);
         System.out.println("Extracted substring: " + subStr);
     }
 }
