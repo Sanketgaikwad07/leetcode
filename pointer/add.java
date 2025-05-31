@@ -17,7 +17,6 @@ public class AddElements {
         // Display the result
         System.out.println("The sum of " + firstNumber + " and " + secondNumber + " is: " + sum);
 
-        // Close the scanner
-        scanner.close();
+       
     }
 }
