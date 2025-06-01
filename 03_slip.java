@@ -28,7 +28,7 @@ public class DONOR {
                 System.out.println("\t\tColumn Display Size : " + rsmd.getColumnDisplaySize(i));
                 System.out.println();
             } 
-            System.out.println("\t--------------------------------------------------");
+            System.out.println("\t------------------------------------------");
 
             rs.close();
             stmt.close();
