@@ -7,6 +7,7 @@ public class FactorialCalculator {
         int number = scanner.nextInt();
         long factorial = 1;
 
+        //arrar.list  hash set use in aray rotate
         for (int i = 1; i <= number; i++) {
             factorial *= i;
         }
