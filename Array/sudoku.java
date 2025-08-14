@@ -3,7 +3,7 @@ class Solution {
         //length is 13 because of '.'=46 and '9'=58
         boolean[] visited = new boolean[13];
 
-        //1st part 
+        //1st part
         for(int i=0;i<9;i++){
             for(int j=0;j<9;j++){
                 if(visited[board[i][j]-46]){
