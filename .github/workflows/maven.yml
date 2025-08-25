@@ -27,5 +27,8 @@ jobs:
       - name: Update dependency graph
         uses: github/dependency-submission-action@v4
         with:
-          # Generates dependency graph for Maven projects
           token: ${{ secrets.GITHUB_TOKEN }}
+          # This tells the action to automatically detect Maven dependencies
+          manifest-path: pom.xml
+          ecosystem: maven
+
