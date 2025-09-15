@@ -5,7 +5,8 @@ public class arr {
         marks[1]=36;
         marks[2]=44;
         for(int i=0;i<3;i++){
-            System.out.println(marks[i]);
+            
+        System.out.println(marks[i]);
         }
     }
 }
