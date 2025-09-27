@@ -16,6 +16,7 @@ public class SubjectNames {
         for (int i = 0; i < n; i++) {
             String subject = scanner.nextLine();
             subjects.add(subject);
+
         }
 
         System.out.println("Subject Names:");
