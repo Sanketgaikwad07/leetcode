@@ -10,6 +10,7 @@ public class Reverse {
            System.out.print( num+" ");
        }
         System.out.println( );
+        
     }
 
     
