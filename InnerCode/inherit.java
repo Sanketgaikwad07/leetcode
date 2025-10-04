@@ -4,12 +4,6 @@
     // Constructor with one parameter x
     public sumk(int y) {
        this.x=y;
-
-
-     
-     
-
-     
     }
 
     public static void main(String[] args) {
