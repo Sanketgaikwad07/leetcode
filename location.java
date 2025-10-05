@@ -9,6 +9,7 @@ public class MemoryLocationExample {
         System.out.println("Identity Hash Code (as a unique identifier): " + hashCode);
         
         // Example of using the object in an array
+        
         String myString = "Hello, World!";
         System.out.println("String: " + myString);
         System.out.println("Identity Hash Code of String: " + System.identityHashCode(myString));
