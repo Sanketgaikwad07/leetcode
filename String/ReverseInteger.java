@@ -7,6 +7,7 @@ class solution{
     int i=0;
     while(x!=0){
       
+      
       int digit=x%10;
       
 if(i>Integer.Max_value/10|| i<Integer.Min_Value/10){
