@@ -9,6 +9,7 @@ public class SAMPLE {
             System.out.println("Number is even");
         } else {
             // if (n % 2 != 0) {
+            
             System.out.println("Number is odd");
             //   }
         }
