@@ -1,6 +1,7 @@
 class solution{
   public static void main(String[]args){
     int[]arr1={1,2,3,4,5};
+    
     int arr2={5,4,3,21,3};
 
   int arr3[]=new int[1];
