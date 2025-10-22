@@ -3,6 +3,7 @@
 
     // Constructor with one parameter x
     public sumk(int y) {
+     
        this.x=y;
     }
 
