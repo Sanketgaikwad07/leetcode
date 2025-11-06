@@ -8,6 +8,7 @@ public class lagest {
         System.out.println("enter the number");
         int a_1=sc.nextInt();
 
+        
         System.out.println("enter the second int");
         int a_2=sc.nextInt();
 
