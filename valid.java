@@ -4,6 +4,7 @@ public class Solution {
         if (s.length() != t.length()) {
             return false;
         }
+        
 
         char[] sSort = s.toCharArray();
         char[] tSort = t.toCharArray();
