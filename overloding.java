@@ -8,6 +8,7 @@ static float myNumber(float x, float y){
 static  char myNumber( char x,int y){
     return x ;
 }
+    
 
     public static void main(String[] args) {
         int num1=myNumber(3,8);
