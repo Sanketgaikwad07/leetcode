@@ -10,6 +10,7 @@ ListNode curr=head;
 while(curr !=null){
     curr=curr.next;
     size++;
+    
 }
 if(n==size){
     return head.next;
