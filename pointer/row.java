@@ -20,6 +20,7 @@ public class RowMatrix {
                 matrix[i][j] = scanner.nextInt();
             }
         }
+        
 
         // Display each row
         System.out.println("Matrix
