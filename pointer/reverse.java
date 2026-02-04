@@ -11,6 +11,7 @@ int main() {
         char temp = *start;
         *start = *end;
         *end = temp;
+        
         start++; // Move start pointer forward
         end--;   // Move end pointer backward
     }
