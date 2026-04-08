@@ -5,6 +5,7 @@
     public sumk(int y) {
      
        this.x=y;
+     
     }
   
 
