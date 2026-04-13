@@ -8,7 +8,6 @@
      
     }
   
-
     public static void main(String[] args) {
         // Create an object of Main and pass the value 5 to the constructor
        sumk myObj = new sumk(5);
