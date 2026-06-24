@@ -1,4 +1,5 @@
- class sumk {
+
+class sumk {
    final  int x;  // Class variable x
 
     // Constructor with one parameter x
