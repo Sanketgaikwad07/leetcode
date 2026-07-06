@@ -8,6 +8,7 @@ if(head.next==null){
 int size=0;
 ListNode curr=head;
 while(curr !=null){
+    
     curr=curr.next;
     size++;
     
