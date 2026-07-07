@@ -13,6 +13,7 @@ while(curr !=null){
     size++;
     
 }
+        
 if(n==size){
     return head.next;
 }
