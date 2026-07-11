@@ -9,6 +9,7 @@ import java.util.LinkedList;
         list.addFirst("3");
         list.addLast("4");
 list.addAll(list);
+
      
         System.out.println(list);
         System.out.println(list.size());
