@@ -10,6 +10,7 @@ public class DatabaseInsert {
         String password = "your_password"; // Database password
 
         Connection conn = null;
+        
         PreparedStatement stmt = null;
 
         try {
@@ -29,6 +30,7 @@ public class DatabaseInsert {
                 System.out.println("A new employee was inserted successfully!");
             }
 
+            
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {
