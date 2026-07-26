@@ -15,6 +15,7 @@ public class NumberProcessor {
         cubeThread.start();
     }
 
+
     static class NumberGenerator implements Runnable {
         public void run() {
             Random random = new Random();
