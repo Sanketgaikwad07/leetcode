@@ -9,6 +9,7 @@ public class StudentRecordDisplay extends JFrame
     private JButton btnDisplay;
     
 
+    
     public StudentRecordDisplay() {
         
         setTitle("Display Student Record");
