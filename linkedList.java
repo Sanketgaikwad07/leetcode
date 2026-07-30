@@ -11,7 +11,8 @@ while(curr !=null){
     
     curr=curr.next;
     size++;
-    
+
+
 }
         
 if(n==size){
