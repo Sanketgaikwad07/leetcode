@@ -12,6 +12,7 @@ class Solution {
 
         int position = k % length;
         if (position == 0) return head;
+        
 
         ListNode current = head;
         for (int i = 0; i < length - position - 1; i++) {
