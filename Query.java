@@ -12,6 +12,7 @@ public class DatabaseInsert {
         Connection conn = null;
         
         PreparedStatement stmt = null;
+        
 
         try {
             // Step 1: Establish a connection
