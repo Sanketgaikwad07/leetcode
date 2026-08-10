@@ -11,6 +11,7 @@ class revese{
     arr[j]=temp;
     i++;
     j--;
+    
   }
     return;
   }
