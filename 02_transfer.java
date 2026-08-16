@@ -8,6 +8,7 @@ public class StudentRecordDisplay extends JFrame
     private JTextField txtRNo, txtSName, txtPer;
     private JButton btnDisplay;
     
+    
 
     
     public StudentRecordDisplay() {
