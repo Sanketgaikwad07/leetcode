@@ -7,9 +7,7 @@ public class DONOR {
         try {
 
             Class.forName("org.postgresql.Driver");
-            
-
-
+        
             Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost/postgres", "postgres", "dsk");
 
             Statement stmt = null;
