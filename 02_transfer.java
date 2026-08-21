@@ -10,6 +10,7 @@ public class StudentRecordDisplay extends JFrame
     public StudentRecordDisplay() {
         
         setTitle("Display Student Record");
+        
         setSize(400, 200);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
