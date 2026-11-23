@@ -10,6 +10,7 @@ public class FactorialCalculator {
         //arrar.list  hash set use in aray rotate
         for (int i = 1; i <= number; i++) {
             factorial *= i;
+            
         }
 
         System.out.println("The factorial of " + number + " is: " + factorial);
